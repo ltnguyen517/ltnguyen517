@@ -25,7 +25,7 @@
 <div align="center">
 
 ### :technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in NYC.
+I am Le Nguyen, a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in NYC.
 
 :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -34,6 +34,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 :zap: On my free time, I follow the state of affairs regarding crypto via reading news and researching different crypto projects. Aside from that, I consistently hit the gym, I like to play and watch basketball, I practice mindfulness meditation, and I continually learn about real estate, which I plan to make my side hustle in the future!
 
 :mailbox:How to reach me: [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/le-nguyen-mbs/)
+or
+Ltnguyenswe@gmail.com
 
 </div>  
   
