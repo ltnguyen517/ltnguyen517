@@ -76,7 +76,5 @@ Ltnguyenswe@gmail.com
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ltnguyen517&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ltnguyen517&show_icons=true&count_private=true&theme=transparent&hide_border=true)
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ltnguyen517&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
