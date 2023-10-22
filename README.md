@@ -18,13 +18,11 @@
 <div align="center">
 
 ### :technologist: About Me :
-I am Le Nguyen, a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in NYC.
+I am Le Nguyen, a Full Stack Developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 :seedling: I’m currently learning to optimize code for improved performance in terms of both time and space efficiency. Apart from continually trying to expand my knowledge on languages like Javascript and Python and keeping up with cutting-edge technologies, I'd love to learn Solidity so that I can explore my profound interest in blockchain technology! 
-
-:zap: On my free time, I follow the state of affairs regarding crypto via reading news and researching different crypto projects!
 
 :mailbox:How to reach me:
 Ltnguyenswe@gmail.com
