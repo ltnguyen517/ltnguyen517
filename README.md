@@ -10,7 +10,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com? font=Fira+Code&weight=450&size=25&duration=2250&pause=1000&width=590&lines=From+Medicine+to+Full-Stack+Development;Bringing+a+Unique+Perspective+to+the;Tech+Industry!" alt="welcome")>
+  <img src="https://readme-typing-svg.demolab.com? font=Fira+Code&weight=450&size=25&duration=2250&pause=1000&width=590&lines=Bringing+a+Unique+Perspective+to+Tech!" alt="welcome")>
 </div>
 
 ---
