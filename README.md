@@ -13,13 +13,6 @@
   <img src="https://readme-typing-svg.demolab.com? font=Fira+Code&weight=450&size=25&duration=2250&pause=1000&width=590&lines=From+Medicine+to+Full-Stack+Development;Bringing+a+Unique+Perspective+to+the;Tech+Industry!" alt="welcome")>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  <br/>
-  <br/>
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</div>
-
 ---
 
 <div align="center">
@@ -31,10 +24,9 @@ I am Le Nguyen, a Full Stack Developer <img src="https://media.giphy.com/media/W
 
 :seedling: I’m currently learning to optimize code for improved performance in terms of both time and space efficiency. Apart from continually trying to expand my knowledge on languages like Javascript and Python and keeping up with cutting-edge technologies, I'd love to learn Solidity so that I can explore my profound interest in blockchain technology! 
 
-:zap: On my free time, I follow the state of affairs regarding crypto via reading news and researching different crypto projects. Aside from that, I consistently hit the gym, I like to play and watch basketball, I practice mindfulness meditation, and I continually learn about real estate, which I plan to make my side hustle in the future!
+:zap: On my free time, I follow the state of affairs regarding crypto via reading news and researching different crypto projects!
 
-:mailbox:How to reach me: [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/le-nguyen-mbs/)
-or
+:mailbox:How to reach me:
 Ltnguyenswe@gmail.com
 
 </div>  
